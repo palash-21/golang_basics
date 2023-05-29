@@ -18,7 +18,7 @@ Details:
 -Similar to memory management in python, there are two memory locations heap(for objects outside a function) and stack(for objects inside a function)
 -In manual memory management, function is call to manually write an object to memory and another function to free memory.
 
-# Features excluded intentionally XXXXXXXX
+# Features excluded intentionally XX
 -Type inheritance
 -Method or operator overloading (operator overloading means same operator has multiple uasge eg. + will add numbers,string,list,etc)
 -Circular dependencies among packages
