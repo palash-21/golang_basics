@@ -2,7 +2,9 @@ Golang intro:
 
 # Development
 -Go language is a general-purpose language, designed with systems programming in mind, initially developed at Google in the year 2007 by Robert Griesemer, Rob Pike, and Ken Thompson.
+
 -Go is a fast, statically typed, compiled language that feels like a dynamically typed, interpreted language.
+
 -Syntax is similar to C++. 
 
 # Features
