@@ -42,3 +42,23 @@ Details:
 -Assertions (eg. in python the assert keyword lets you test if a condition in your code returns True, if not, the program will raise an AssertionError.)
 
 -Generic programming 
+
+
+# References:
+-https://www.w3schools.com/go/index.php
+
+-https://www.tutorialspoint.com/go/index.htm
+
+-https://www.programiz.com/golang/getting-started
+
+-https://gobyexample.com/
+
+-https://go.dev/tour/welcome/1
+
+-https://exercism.org/tracks/go
+
+-https://youtu.be/Q0sKAMal4WQ
+
+-https://youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q
+
+-https://pkg.go.dev/std
