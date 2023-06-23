@@ -1,0 +1,13 @@
+Stringers : https://go.dev/tour/methods/17
+
+Generics : https://gobyexample.com/generics
+
+Templates: https://gobyexample.com/text-templates
+
+Regular Expressiona : https://gobyexample.com/regular-expressions
+
+Working with Json : https://blog.logrocket.com/using-json-go-guide/
+
+Context : https://golangbot.com/context-timeout-cancellation/
+
+sync.rwmutex : https://medium.com/@luanrubensf/concurrent-map-access-in-go-a6a733c5ffd1
